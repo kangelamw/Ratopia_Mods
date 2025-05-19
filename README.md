@@ -5,6 +5,10 @@
   - Unlocks ALL research. 1 step towards creative mode.
     > I know it works on previous saves. That's the extent to which I've tested it.
 
+<br>
+
+---
+
 ### How to use?
 
 1. This is using Bepinex5 and Harmony. So, download it here:
@@ -24,7 +28,9 @@
 
 5. **Have fun!**
 
+<br>
 
+---
 
 ### What's next?
 
